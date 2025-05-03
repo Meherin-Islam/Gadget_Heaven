@@ -1,12 +1,18 @@
-# React + Vite
+# Gadget Heaven 🖥️📱
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Gadget Heaven** is a modern and user-friendly e-commerce website where users can browse, 
+search, and explore a variety of **laptops** and **phones**. Whether you're looking for the latest 
+smartphones or powerful laptops, Gadget Heaven has something for every tech lover.
 
-Currently, two official plugins are available:
+## 🌐 Live Link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Visit Gadget Heaven](https://delicate-gelato-8f103a.netlify.app/)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛒 Features
+
+- 🔍 **Browse Products**: View a wide range of laptops and phones with detailed specifications and prices.
+- ❤️ **Wishlist**: Save your favorite gadgets for later.
+- 🛒 **Add to Cart**: Add products to your cart and prepare for checkout.
+- 🔄 **Responsive Design**: Fully responsive design that works across all devices.
+- 🚀 **Smooth UI/UX**: Clean and fast user interface for a seamless shopping experience.
