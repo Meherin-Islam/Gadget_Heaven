@@ -6,7 +6,7 @@ smartphones or powerful laptops, Gadget Heaven has something for every tech love
 
 ## 🌐 Live Link
 
-👉 [Visit Gadget Heaven](https://delicate-gelato-8f103a.netlify.app/)
+👉 [Visit Gadget Heaven] https://delicate-gelato-8f103a.netlify.app/
 
 
 ## 🛒 Features
